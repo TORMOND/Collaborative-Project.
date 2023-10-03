@@ -1,0 +1,2 @@
+Add payment integration feature on  products added to cart using mpesa forlocal payments and paypal
+ for credit card and international payments.
